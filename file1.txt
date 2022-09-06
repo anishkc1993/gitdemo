@@ -2,3 +2,4 @@ New file 1
 NEew line
 New Changes
 New feature file line after stash 
+New chagnes in file1
